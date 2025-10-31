@@ -36,12 +36,3 @@ All VBA code is fully exported and visible in the `/vba` folder for transparency
 - Make sure macros are enabled under:  
   **Excel → Options → Trust Center → Trust Center Settings → Macro Settings**  
 - For developers: all VBA modules, classes, and forms are available under `/vba` for review or customization.
-
----
-
-## 🙏 Acknowledgments
-
-- Built in **Microsoft Excel** using **VBA** (Visual Basic for Applications).  
-- Designed for intuitive personal finance management and visualization.  
-- Inspired by clean UI dashboards and automation-driven workflows.
-
